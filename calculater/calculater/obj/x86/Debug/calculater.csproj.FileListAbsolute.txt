@@ -1,0 +1,8 @@
+C:\Users\maryam\Desktop\calculater\calculater\bin\Debug\calculater.exe
+C:\Users\maryam\Desktop\calculater\calculater\bin\Debug\calculater.pdb
+C:\Users\maryam\Desktop\calculater\calculater\obj\x86\Debug\calculater.Form1.resources
+C:\Users\maryam\Desktop\calculater\calculater\obj\x86\Debug\calculater.Properties.Resources.resources
+C:\Users\maryam\Desktop\calculater\calculater\obj\x86\Debug\calculater.csproj.GenerateResource.Cache
+C:\Users\maryam\Desktop\calculater\calculater\obj\x86\Debug\calculater.exe
+C:\Users\maryam\Desktop\calculater\calculater\obj\x86\Debug\calculater.pdb
+C:\Users\maryam\Desktop\calculater\calculater\obj\x86\Debug\calculater.csprojResolveAssemblyReference.cache

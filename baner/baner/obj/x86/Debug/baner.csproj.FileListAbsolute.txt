@@ -1,0 +1,28 @@
+C:\Users\maryam\Desktop\baner\baner\bin\Debug\baner.exe
+C:\Users\maryam\Desktop\baner\baner\bin\Debug\baner.pdb
+C:\Users\maryam\Desktop\baner\baner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maryam\Desktop\baner\baner\obj\x86\Debug\baner.Form1.resources
+C:\Users\maryam\Desktop\baner\baner\obj\x86\Debug\baner.Properties.Resources.resources
+C:\Users\maryam\Desktop\baner\baner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maryam\Desktop\baner\baner\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maryam\Desktop\baner\baner\obj\x86\Debug\baner.exe
+C:\Users\maryam\Desktop\baner\baner\obj\x86\Debug\baner.pdb
+C:\Users\maryam\Desktop\c#\baner\baner\obj\x86\Debug\baner.exe
+C:\Users\maryam\Desktop\c#\baner\baner\obj\x86\Debug\baner.pdb
+C:\Users\maryam\Desktop\New folder (7)\c#\baner\baner\obj\x86\Debug\baner.exe
+C:\Users\maryam\Desktop\New folder (7)\c#\baner\baner\obj\x86\Debug\baner.pdb
+C:\Users\maryam\Desktop\New folder (7)\c#\baner\baner\bin\Debug\baner.exe
+C:\Users\maryam\Desktop\New folder (7)\c#\baner\baner\bin\Debug\baner.pdb
+C:\Users\maryam\Desktop\New folder (7)\c#\baner\baner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maryam\Desktop\New folder (7)\c#\baner\baner\obj\x86\Debug\baner.Form1.resources
+C:\Users\maryam\Desktop\New folder (7)\c#\baner\baner\obj\x86\Debug\baner.Properties.Resources.resources
+C:\Users\maryam\Desktop\New folder (7)\c#\baner\baner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maryam\Desktop\New folder (7)\c#\baner\baner\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\c#\baner\baner\obj\x86\Debug\baner.exe
+F:\c#\baner\baner\obj\x86\Debug\baner.pdb
+F:\c#\baner\baner\obj\x86\Debug\baner.csprojResolveAssemblyReference.cache
+F:\c#\baner\baner\obj\x86\Debug\baner.Form1.resources
+F:\c#\baner\baner\obj\x86\Debug\baner.Properties.Resources.resources
+F:\c#\baner\baner\obj\x86\Debug\baner.csproj.GenerateResource.Cache
+F:\c#\baner\baner\bin\Debug\baner.exe
+F:\c#\baner\baner\bin\Debug\baner.pdb

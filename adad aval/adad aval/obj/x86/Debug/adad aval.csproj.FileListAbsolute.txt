@@ -1,0 +1,17 @@
+C:\Users\maryam\Desktop\adad aval\adad aval\bin\Debug\adad aval.exe
+C:\Users\maryam\Desktop\adad aval\adad aval\bin\Debug\adad aval.pdb
+C:\Users\maryam\Desktop\adad aval\adad aval\obj\x86\Debug\adad_aval.Form1.resources
+C:\Users\maryam\Desktop\adad aval\adad aval\obj\x86\Debug\adad_aval.Properties.Resources.resources
+C:\Users\maryam\Desktop\adad aval\adad aval\obj\x86\Debug\adad aval.csproj.GenerateResource.Cache
+C:\Users\maryam\Desktop\adad aval\adad aval\obj\x86\Debug\adad aval.exe
+C:\Users\maryam\Desktop\adad aval\adad aval\obj\x86\Debug\adad aval.pdb
+Z:\VisualStudio\P.VazifehDust\adad aval\adad aval\bin\Debug\adad aval.exe.config
+Z:\VisualStudio\P.VazifehDust\adad aval\adad aval\bin\Debug\adad aval.exe
+Z:\VisualStudio\P.VazifehDust\adad aval\adad aval\bin\Debug\adad aval.pdb
+Z:\VisualStudio\P.VazifehDust\adad aval\adad aval\obj\x86\Debug\adad aval.csproj.AssemblyReference.cache
+Z:\VisualStudio\P.VazifehDust\adad aval\adad aval\obj\x86\Debug\adad_aval.Form1.resources
+Z:\VisualStudio\P.VazifehDust\adad aval\adad aval\obj\x86\Debug\adad_aval.Properties.Resources.resources
+Z:\VisualStudio\P.VazifehDust\adad aval\adad aval\obj\x86\Debug\adad aval.csproj.GenerateResource.cache
+Z:\VisualStudio\P.VazifehDust\adad aval\adad aval\obj\x86\Debug\adad aval.csproj.CoreCompileInputs.cache
+Z:\VisualStudio\P.VazifehDust\adad aval\adad aval\obj\x86\Debug\adad aval.exe
+Z:\VisualStudio\P.VazifehDust\adad aval\adad aval\obj\x86\Debug\adad aval.pdb

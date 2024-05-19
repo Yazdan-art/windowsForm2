@@ -1,0 +1,28 @@
+C:\Users\maryam\Desktop\arz\arz\bin\Debug\arz.exe
+C:\Users\maryam\Desktop\arz\arz\bin\Debug\arz.pdb
+C:\Users\maryam\Desktop\arz\arz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maryam\Desktop\arz\arz\obj\x86\Debug\arz.Form1.resources
+C:\Users\maryam\Desktop\arz\arz\obj\x86\Debug\arz.Properties.Resources.resources
+C:\Users\maryam\Desktop\arz\arz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maryam\Desktop\arz\arz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\maryam\Desktop\arz\arz\obj\x86\Debug\arz.exe
+C:\Users\maryam\Desktop\arz\arz\obj\x86\Debug\arz.pdb
+C:\Users\maryam\Desktop\c#\arz\arz\obj\x86\Debug\arz.exe
+C:\Users\maryam\Desktop\c#\arz\arz\obj\x86\Debug\arz.pdb
+C:\Users\maryam\Desktop\New folder (7)\c#\arz\arz\obj\x86\Debug\arz.exe
+C:\Users\maryam\Desktop\New folder (7)\c#\arz\arz\obj\x86\Debug\arz.pdb
+C:\Users\maryam\Desktop\New folder (7)\c#\arz\arz\bin\Debug\arz.exe
+C:\Users\maryam\Desktop\New folder (7)\c#\arz\arz\bin\Debug\arz.pdb
+C:\Users\maryam\Desktop\New folder (7)\c#\arz\arz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\maryam\Desktop\New folder (7)\c#\arz\arz\obj\x86\Debug\arz.Form1.resources
+C:\Users\maryam\Desktop\New folder (7)\c#\arz\arz\obj\x86\Debug\arz.Properties.Resources.resources
+C:\Users\maryam\Desktop\New folder (7)\c#\arz\arz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\maryam\Desktop\New folder (7)\c#\arz\arz\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\c#\arz\arz\obj\x86\Debug\arz.exe
+F:\c#\arz\arz\obj\x86\Debug\arz.pdb
+F:\c#\arz\arz\bin\Debug\arz.exe
+F:\c#\arz\arz\bin\Debug\arz.pdb
+F:\c#\arz\arz\obj\x86\Debug\arz.csprojResolveAssemblyReference.cache
+F:\c#\arz\arz\obj\x86\Debug\arz.Form1.resources
+F:\c#\arz\arz\obj\x86\Debug\arz.Properties.Resources.resources
+F:\c#\arz\arz\obj\x86\Debug\arz.csproj.GenerateResource.Cache
