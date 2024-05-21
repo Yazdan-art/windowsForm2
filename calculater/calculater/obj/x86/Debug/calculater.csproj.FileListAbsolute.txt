@@ -6,3 +6,13 @@ C:\Users\maryam\Desktop\calculater\calculater\obj\x86\Debug\calculater.csproj.Ge
 C:\Users\maryam\Desktop\calculater\calculater\obj\x86\Debug\calculater.exe
 C:\Users\maryam\Desktop\calculater\calculater\obj\x86\Debug\calculater.pdb
 C:\Users\maryam\Desktop\calculater\calculater\obj\x86\Debug\calculater.csprojResolveAssemblyReference.cache
+Z:\VisualStudio\P.VazifehDust\windowsForm2\calculater\calculater\bin\Debug\calculater.exe.config
+Z:\VisualStudio\P.VazifehDust\windowsForm2\calculater\calculater\bin\Debug\calculater.exe
+Z:\VisualStudio\P.VazifehDust\windowsForm2\calculater\calculater\bin\Debug\calculater.pdb
+Z:\VisualStudio\P.VazifehDust\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.csproj.AssemblyReference.cache
+Z:\VisualStudio\P.VazifehDust\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.Form1.resources
+Z:\VisualStudio\P.VazifehDust\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.Properties.Resources.resources
+Z:\VisualStudio\P.VazifehDust\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.csproj.GenerateResource.cache
+Z:\VisualStudio\P.VazifehDust\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.csproj.CoreCompileInputs.cache
+Z:\VisualStudio\P.VazifehDust\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.exe
+Z:\VisualStudio\P.VazifehDust\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.pdb

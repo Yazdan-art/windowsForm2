@@ -127,6 +127,10 @@ namespace calculater
                 if (s.Substring(n - 1, 1) == ".")
                     f = 0;
                 s = s.Substring(0, n - 1);
+                //Substring Method (int startIndex, int length)
+                //This method is used to extract a substring that begins from specified position describe by parameter startIndex
+                //and has a specified length. If startIndex is equal to the length of string and parameter length is zero,
+                //then it will return nothing substring.
             }
             led.Text = s;
         }
