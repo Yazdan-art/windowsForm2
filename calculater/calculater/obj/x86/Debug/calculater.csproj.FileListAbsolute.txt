@@ -16,3 +16,13 @@ Z:\VisualStudio\P.VazifehDust\windowsForm2\calculater\calculater\obj\x86\Debug\c
 Z:\VisualStudio\P.VazifehDust\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.csproj.CoreCompileInputs.cache
 Z:\VisualStudio\P.VazifehDust\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.exe
 Z:\VisualStudio\P.VazifehDust\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.pdb
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\calculater\calculater\bin\Debug\calculater.exe.config
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\calculater\calculater\bin\Debug\calculater.exe
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\calculater\calculater\bin\Debug\calculater.pdb
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.csproj.AssemblyReference.cache
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.Form1.resources
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.Properties.Resources.resources
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.csproj.GenerateResource.cache
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.csproj.CoreCompileInputs.cache
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.exe
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\calculater\calculater\obj\x86\Debug\calculater.pdb

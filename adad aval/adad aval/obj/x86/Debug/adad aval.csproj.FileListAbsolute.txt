@@ -15,3 +15,13 @@ Z:\VisualStudio\P.VazifehDust\adad aval\adad aval\obj\x86\Debug\adad aval.csproj
 Z:\VisualStudio\P.VazifehDust\adad aval\adad aval\obj\x86\Debug\adad aval.csproj.CoreCompileInputs.cache
 Z:\VisualStudio\P.VazifehDust\adad aval\adad aval\obj\x86\Debug\adad aval.exe
 Z:\VisualStudio\P.VazifehDust\adad aval\adad aval\obj\x86\Debug\adad aval.pdb
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\adad aval\adad aval\bin\Debug\adad aval.exe.config
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\adad aval\adad aval\bin\Debug\adad aval.exe
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\adad aval\adad aval\bin\Debug\adad aval.pdb
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\adad aval\adad aval\obj\x86\Debug\adad aval.csproj.AssemblyReference.cache
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\adad aval\adad aval\obj\x86\Debug\adad_aval.Form1.resources
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\adad aval\adad aval\obj\x86\Debug\adad_aval.Properties.Resources.resources
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\adad aval\adad aval\obj\x86\Debug\adad aval.csproj.GenerateResource.cache
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\adad aval\adad aval\obj\x86\Debug\adad aval.csproj.CoreCompileInputs.cache
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\adad aval\adad aval\obj\x86\Debug\adad aval.exe
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\adad aval\adad aval\obj\x86\Debug\adad aval.pdb

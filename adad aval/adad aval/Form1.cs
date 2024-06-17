@@ -18,8 +18,8 @@ namespace adad_aval
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int n, i, j;
-            bool f;
+            int n, i, j;  bool f;
+          
             n = Convert.ToInt32(textBox1.Text);
             listBox1.Items.Clear();
             if (n < 1)
@@ -49,9 +49,6 @@ namespace adad_aval
             }
         }
 
-        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
 
-        }
     }
 }
