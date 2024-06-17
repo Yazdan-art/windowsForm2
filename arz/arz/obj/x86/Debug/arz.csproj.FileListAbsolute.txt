@@ -26,3 +26,13 @@ F:\c#\arz\arz\obj\x86\Debug\arz.csprojResolveAssemblyReference.cache
 F:\c#\arz\arz\obj\x86\Debug\arz.Form1.resources
 F:\c#\arz\arz\obj\x86\Debug\arz.Properties.Resources.resources
 F:\c#\arz\arz\obj\x86\Debug\arz.csproj.GenerateResource.Cache
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\arz\arz\bin\Debug\arz.exe.config
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\arz\arz\bin\Debug\arz.exe
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\arz\arz\bin\Debug\arz.pdb
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\arz\arz\obj\x86\Debug\arz.csproj.AssemblyReference.cache
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\arz\arz\obj\x86\Debug\arz.Form1.resources
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\arz\arz\obj\x86\Debug\arz.Properties.Resources.resources
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\arz\arz\obj\x86\Debug\arz.csproj.GenerateResource.cache
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\arz\arz\obj\x86\Debug\arz.csproj.CoreCompileInputs.cache
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\arz\arz\obj\x86\Debug\arz.exe
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\arz\arz\obj\x86\Debug\arz.pdb

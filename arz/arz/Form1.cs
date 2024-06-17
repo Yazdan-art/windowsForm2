@@ -34,7 +34,7 @@ namespace arz
             listBox2.SelectedIndex = listBox3.SelectedIndex;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void add_btn_click(object sender, EventArgs e)
         {
             if (textBox2.Text == "" || textBox3.Text == "" || textBox4.Text == "")
                 MessageBox.Show("اطلاعات ناقص است");
@@ -50,7 +50,7 @@ namespace arz
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void edit_btn_Click(object sender, EventArgs e)
         {
             textBox2.Text = Convert.ToString(listBox1.Items[listBox1.SelectedIndex]);
             textBox3.Text = Convert.ToString(listBox2.Items[listBox2.SelectedIndex]);
@@ -58,7 +58,7 @@ namespace arz
 
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void save_btn_Click(object sender, EventArgs e)
         {
             int i;
             i = listBox1.SelectedIndex;
@@ -73,7 +73,7 @@ namespace arz
             textBox4.Text = "";
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void delete_btn_Click(object sender, EventArgs e)
         {
             int i;
             i = listBox1.SelectedIndex;
