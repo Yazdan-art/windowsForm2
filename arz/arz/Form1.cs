@@ -58,6 +58,14 @@ namespace arz
 
         }
 
+        private void delete_btn_Click(object sender, EventArgs e)
+        {
+            int i;
+            i = listBox1.SelectedIndex;
+            listBox1.Items.RemoveAt(i);
+            listBox2.Items.RemoveAt(i);
+            listBox3.Items.RemoveAt(i);
+        }
         private void save_btn_Click(object sender, EventArgs e)
         {
             int i;
@@ -73,13 +81,5 @@ namespace arz
             textBox4.Text = "";
         }
 
-        private void delete_btn_Click(object sender, EventArgs e)
-        {
-            int i;
-            i = listBox1.SelectedIndex;
-            listBox1.Items.RemoveAt(i);
-            listBox2.Items.RemoveAt(i);
-            listBox3.Items.RemoveAt(i);
-        }
     }
 }
