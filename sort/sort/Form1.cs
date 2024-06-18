@@ -18,7 +18,7 @@ namespace sort
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void add_btn_Click(object sender, EventArgs e)
         {
             
             if (i <= 6)
@@ -32,7 +32,7 @@ namespace sort
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void sort_btn_Click(object sender, EventArgs e)
         {
             int t;
             int i, j;
@@ -55,18 +55,18 @@ namespace sort
 
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void elements_show_btn_Click(object sender, EventArgs e)
         {
             MessageBox.Show(Convert.ToString(listBox1.Items.Count));
 
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void index_btn_Click(object sender, EventArgs e)
         {
             MessageBox.Show(Convert.ToString(listBox1.SelectedIndex));
         }
 
-        private void button5_Click(object sender, EventArgs e)
+        private void selected_item_btn_Click(object sender, EventArgs e)
         {
             MessageBox.Show(Convert.ToString(listBox1.Items[listBox1.SelectedIndex]));
         }
@@ -74,21 +74,6 @@ namespace sort
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             textBox2.Text = Convert.ToString(listBox1.Items[listBox1.SelectedIndex]);
-        }
-
-        private void listBox2_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
