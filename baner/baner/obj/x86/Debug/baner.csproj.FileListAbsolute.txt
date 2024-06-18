@@ -26,3 +26,13 @@ F:\c#\baner\baner\obj\x86\Debug\baner.Properties.Resources.resources
 F:\c#\baner\baner\obj\x86\Debug\baner.csproj.GenerateResource.Cache
 F:\c#\baner\baner\bin\Debug\baner.exe
 F:\c#\baner\baner\bin\Debug\baner.pdb
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\baner\baner\bin\Debug\baner.exe.config
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\baner\baner\bin\Debug\baner.exe
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\baner\baner\bin\Debug\baner.pdb
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\baner\baner\obj\x86\Debug\baner.csproj.AssemblyReference.cache
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\baner\baner\obj\x86\Debug\baner.Form1.resources
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\baner\baner\obj\x86\Debug\baner.Properties.Resources.resources
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\baner\baner\obj\x86\Debug\baner.csproj.GenerateResource.cache
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\baner\baner\obj\x86\Debug\baner.csproj.CoreCompileInputs.cache
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\baner\baner\obj\x86\Debug\baner.exe
+D:\public_of_common_space\Visual_studio\Yazdan-art\windowsForm2\baner\baner\obj\x86\Debug\baner.pdb

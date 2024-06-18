@@ -55,10 +55,7 @@ namespace baner
             label1.ForeColor = Color.FromArgb(red, 0, 0);
         }*/
 
-        private void label1_Click(object sender, EventArgs e)
-        {
 
-        }
 
        
     }
