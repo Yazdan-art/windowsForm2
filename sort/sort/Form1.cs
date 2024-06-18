@@ -34,16 +34,16 @@ namespace sort
 
         private void sort_btn_Click(object sender, EventArgs e)
         {
-            int t, i, j;
-            for (i = 6; i >= 1; i--)
+            int temp, i, j;
+            for (i = 3; i >= 1; i--)
             {
                 for (j = 0; j < i ; j++)
                 {
                     if (x[j] > x[j + 1])
                     {
-                        t = x[j];
+                        temp = x[j];
                         x[j] = x[j + 1];
-                        x[j + 1] = t;
+                        x[j + 1] = temp;
                     }
                 }
             }
