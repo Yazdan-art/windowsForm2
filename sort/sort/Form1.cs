@@ -11,13 +11,13 @@ namespace sort
 {
     public partial class Form1 : Form
     {
-        int[] x = new int[7];
-        int i = 0;
         public Form1()
         {
             InitializeComponent();
         }
 
+        int[] x = new int[7];
+        int i = 0;
         private void add_btn_Click(object sender, EventArgs e)
         {
             
@@ -28,14 +28,13 @@ namespace sort
                 i++;
             }
            else
-                MessageBox.Show("آرایه پر است");
+                MessageBox.Show("the arry is full");
 
         }
 
         private void sort_btn_Click(object sender, EventArgs e)
         {
-            int t;
-            int i, j;
+            int t, i, j;
             for (i = 6; i >= 1; i--)
             {
                 for (j = 0; j < i ; j++)
